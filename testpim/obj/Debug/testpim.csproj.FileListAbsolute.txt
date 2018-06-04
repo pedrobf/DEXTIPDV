@@ -1,0 +1,334 @@
+C:\Users\laves\source\repos\testpim\testpim\bin\Debug\testpim.exe.config
+C:\Users\laves\source\repos\testpim\testpim\bin\Debug\testpim.exe
+C:\Users\laves\source\repos\testpim\testpim\bin\Debug\testpim.pdb
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.Form1.resources
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.exe
+C:\Users\laves\source\repos\testpim\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.exe
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.pdb
+C:\Users\axew\Downloads\testpim 0.09\testpim\bin\Debug\testpim.exe.config
+C:\Users\axew\Downloads\testpim 0.09\testpim\bin\Debug\testpim.exe
+C:\Users\axew\Downloads\testpim 0.09\testpim\bin\Debug\testpim.pdb
+C:\Users\axew\Downloads\testpim 0.09\testpim\bin\Debug\MySql.Data.dll
+C:\Users\axew\Downloads\testpim 0.09\testpim\bin\Debug\MySql.Data.xml
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.Login.resources
+C:\Users\axew\Downloads\testpim 0.09\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.11\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\PIM 0.11 DEMO\teste pim 0.11\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\axew\Downloads\teste pim 0.12\testpim\bin\Debug\testpim.exe.config
+C:\Users\axew\Downloads\teste pim 0.12\testpim\bin\Debug\testpim.exe
+C:\Users\axew\Downloads\teste pim 0.12\testpim\bin\Debug\testpim.pdb
+C:\Users\axew\Downloads\teste pim 0.12\testpim\bin\Debug\MySql.Data.dll
+C:\Users\axew\Downloads\teste pim 0.12\testpim\bin\Debug\MySql.Data.xml
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.Login.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.exe
+C:\Users\axew\Downloads\teste pim 0.12\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.13\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.14\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.15\testpim\obj\Debug\testpim.pdb
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\bin\Debug\testpim.exe.config
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\bin\Debug\testpim.exe
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\bin\Debug\testpim.pdb
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\bin\Debug\MySql.Data.dll
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\bin\Debug\MySql.Data.xml
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.Login.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.exe
+C:\Users\axew\Downloads\teste pim 0.16\teste pim 0.16\testpim\obj\Debug\testpim.pdb
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.Login.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.exe
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.pdb
+C:\Users\axew\Desktop\PIM3TELAS\testpim\bin\Debug\testpim.exe.config
+C:\Users\axew\Desktop\PIM3TELAS\testpim\bin\Debug\testpim.exe
+C:\Users\axew\Desktop\PIM3TELAS\testpim\bin\Debug\testpim.pdb
+C:\Users\axew\Desktop\PIM3TELAS\testpim\bin\Debug\MySql.Data.dll
+C:\Users\axew\Desktop\PIM3TELAS\testpim\bin\Debug\MySql.Data.xml
+C:\Users\axew\Desktop\PIM3TELAS\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.SobreDexti.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\teste pim 0.16.0.1\testpim\obj\Debug\testpim.RelatorioVendas.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\bin\Debug\testpim.exe.config
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\bin\Debug\testpim.exe
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\bin\Debug\testpim.pdb
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\bin\Debug\MySql.Data.dll
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\bin\Debug\MySql.Data.xml
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.RelatorioVendas.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.SobreDexti.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.Login.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.exe
+C:\Users\axew\Desktop\PIM3TELAS\teste pim 0.16.0.2\teste pim 0.16.0.2\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.RelatorioVendas.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.SobreDexti.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI\testpim\obj\Debug\testpim.pdb
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\bin\Debug\testpim.exe.config
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\bin\Debug\testpim.exe
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\bin\Debug\MySql.Data.dll
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\bin\Debug\MySql.Data.xml
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.RelatorioVendas.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.SobreDexti.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.Login.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.exe
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\obj\Debug\testpim.pdb
+C:\Users\axew\Downloads\PIM FINAL\DEXTI\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\bin\Debug\testpim.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\bin\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\bin\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.csprojResolveAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.RelatorioVendas.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.SobreDexti.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.AtualizarEstoque.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.CadastroClienteFisico.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.CadastroFuncionario.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.CadastroFornecedor.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.CadastroProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.ListarProduto.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.Login.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.Menu.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.Telas.RealizarVenda.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.TelaCasdastroClienteF.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\DEXTI PDV\testpim\obj\Debug\testpim.Telas.Ajuda.resources
